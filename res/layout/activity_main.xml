@@ -9,7 +9,7 @@
     tools:context=".MainActivity" >
 
     <fragment
-        android:id="@+id/fragment1"
+        android:id="@+id/mappa1"
         android:name="com.google.android.gms.maps.MapFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
